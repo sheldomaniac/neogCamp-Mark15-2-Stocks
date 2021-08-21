@@ -7,7 +7,7 @@
     --color3: #101010;
     --color4: #39A2DB;
     --color5 : white;
-    --color6: rgba(68,68,68,0.1);
+    --color6: rgba(16,16,16,0.85);
 }
 
 main{
@@ -207,7 +207,7 @@ li a:hover{
 /* FOOTER */
 footer{
     
-    background-color: var(--color3);
+    background-color: var(--color6);
     padding: 1rem;
     color: var(--color5);
 }
